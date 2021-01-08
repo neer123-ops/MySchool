@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    text-align: center;
+    padding-top: 800px;
+}
+<div class="announcment" > 
+<marquee id="marqueestyle"onmouseover="this.stop();"onmouseout="this.start();">
+*** Feel free to ask queries on msvvdel@gmail.com *** 
+    </marquee>
+</div>
+    
+    <iframe id="image" src="https://www.modernschoolvasantvihar.org/images/slider0.jpg"
